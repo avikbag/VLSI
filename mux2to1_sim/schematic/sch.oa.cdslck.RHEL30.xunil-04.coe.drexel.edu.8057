@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ab3433
+HostName                       xunil-04.coe.drexel.edu
+ProcessIdentifier              8057
+ProcessCreationTime_UTC        1479143562
+ProcessCreationTime_Readable   Mon Nov 14 12:12:42 2016 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/DREXEL/ab3433/IBM_CMOS7RF/ecec471/lab1/mux2to1_sim/schematic/sch.oa.cdslck
+TimeEditLocked                 Mon Nov 14 12:13:22 2016 EST
